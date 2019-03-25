@@ -77,9 +77,19 @@ Upon completing the lab, you will know how to:
 
 > <img src="https://github.com/bleonardb3/ML_POT_03-27/blob/master/Lab-1/images/AssociateMLService.png"/>
 
-### Step 17. Repeat steps 11-16 to create a Spark service. 
+### Step 17. Scroll down to `Associated Services`, then select `Add service` and select `Spark`.
 
-### Step 18. The Associated Services should appear as below. 
+> <img src="https://github.com/bleonardb3/AA_03-26/blob/master/Lab-1/images/AddSparkService.png"/>
+
+### Step 18. Select `New`, `Lite` plan, and click `Create`
+
+> <img src="https://github.com/bleonardb3/AA_03-26/blob/master/Lab-1/images/CreateSparkService.png"/>
+
+### Step 19. Change the `Service name` to `Spark` and click `Confirm` 
+
+> <img src="https://github.com/bleonardb3/AA_03-26/blob/master/Lab-1/images/ConfirmSparkService.png"/>
+
+### Step 20. The Associated Services should appear as below. 
 
 > <img src="https://github.com/bleonardb3/ML_POT_03-27/blob/master/Lab-1/images/DisplayAssociatedServices.png"/>
 
